@@ -225,9 +225,7 @@ function start(g) {
 }
 
 function back() {
-    send({
-        type: "reset"
-    });
+    send({ type: "reset" });
 }
 
 function board(x) {
