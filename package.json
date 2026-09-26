@@ -1,0 +1,12 @@
+{
+  "name": "h4-party",
+  "version": "1.0.0",
+  "description": "H4 Party multiplayer game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
